@@ -1,0 +1,21 @@
+.myred  {
+	color: #696969;
+	/* #RGBRGB --- 0-9,a-f*/
+}
+
+.banner-header {
+	background-color:#000000;
+}
+
+body {
+  padding-top: 50px;
+}
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+	background-color: #000000;
+}
